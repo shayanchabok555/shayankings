@@ -219,6 +219,7 @@ function create_config( )
     "arabic_lock",
     "set",
     "get",
+    "hi",
     "broadcast",
     "download_media",
     "invite",
